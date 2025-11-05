@@ -1,0 +1,20 @@
+# venv / IDE
+venv/
+.env/
+.idea/
+.vscode/
+__pycache__/
+*.pyc
+
+# Streamlit cache
+.streamlit/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter/exports (на всякий)
+.ipynb_checkpoints/
+*.zip
+*.xlsx
+*.csv
